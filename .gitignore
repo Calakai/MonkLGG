@@ -1,0 +1,11 @@
+# Claude Code personal/project memory — auto-loaded, not committed
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
